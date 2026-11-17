@@ -10,6 +10,10 @@ A modern, responsive luxury perfume e-commerce concept built with React and Vite
 
 <img width="1905" height="910" alt="image" src="https://github.com/user-attachments/assets/dc98a884-cde1-4e97-ae13-8ebd44e6b9e5" />
 
+<img width="1641" height="791" alt="image" src="https://github.com/user-attachments/assets/df049225-5512-45c0-83b8-15f4cb78d094" />
+
+<img width="1735" height="807" alt="image" src="https://github.com/user-attachments/assets/17d534df-2ef2-4796-8ae3-728018b9f70d" />
+
 
 ## ✨ Features
 
