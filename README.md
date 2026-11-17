@@ -1,3 +1,4 @@
+
 # ÉLVARÉ — Luxury Fragrance Store
 
 A responsive React + Vite multi-page e-commerce concept website for a fictional luxury fragrance brand.
@@ -45,3 +46,4 @@ The production-ready website files will be generated in `dist/`.
 - Contact form demonstrates the UI only; it does not send email.
 - All six signature fragrances use the supplied JPG product photographs stored in `src/assets/perfumes/`.
 - Google Fonts are loaded from Google Fonts when internet access is available; system fallbacks remain in place.
+
